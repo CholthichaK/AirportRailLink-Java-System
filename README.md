@@ -25,7 +25,6 @@ This project focuses on building practical experience with application logic, us
 
 * Java
 * Object-Oriented Programming (OOP)
-* Java Swing / GUI Development
 * Conditional Logic
 * Data Handling
 * Fare Calculation
